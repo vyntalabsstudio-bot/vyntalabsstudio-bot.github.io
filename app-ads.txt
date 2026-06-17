@@ -164,3 +164,6 @@ video.unrulymedia.com, 290726769, RESELLER
 pubmatic.com, 165329, RESELLER, 5d62403b186f2ace
 video.unrulymedia.com, 905340553, RESELLER
 pubnative.net, 1017792, RESELLER, d641df8625486a7b
+pubmatic.com, 165854, RESELLER, 5d62403b186f2ace
+triplelift.com, 14798, RESELLER, 6c33edb13117fd86
+openx.com, 563905670, RESELLER, 6a698e2ec38604c6
