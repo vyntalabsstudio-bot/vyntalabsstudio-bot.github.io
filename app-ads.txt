@@ -1,4 +1,3 @@
-ownerdomain=vyntalabsstudio-bot.github.io
 google.com, pub-5466713717629770, DIRECT, f08c47fec0942fa0
 unity.com, 128055880, DIRECT, 96cabb5fbdde37a7
 pubnative.net, 1009966, RESELLER, d641df8625486a7b
